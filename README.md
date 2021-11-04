@@ -10,5 +10,10 @@ The data includes everything from the down payment, insurance costs, service fee
 
 ** I didn't upload the underlying data in Excel, but the relevant summary statistics are in the notebook
 
+## Examples
+<img src="https://github.com/MarcosDemetry/analyzing_car_expenses/blob/main/figures/4_parking_expenses_by_year.png" width="600" height="600" />
+
+<img src="https://github.com/MarcosDemetry/analyzing_car_expenses/blob/main/figures/9_price_per_fuel_receipt_vs_average_daily_price.png" width="600" height="600" />
+
 ## Suggestions?
 Raise an issue with suggestions of interesting things to explore given the available data!
